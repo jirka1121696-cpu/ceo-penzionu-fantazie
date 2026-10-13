@@ -1,0 +1,12 @@
+{
+  "name": "CEO penzionu Fantazie",
+  "short_name": "CEO Fantazie",
+  "description": "Strategické centrum pro řízení penzionu Fantazie.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#102d2b",
+  "lang": "cs",
+  "icons": []
+}
